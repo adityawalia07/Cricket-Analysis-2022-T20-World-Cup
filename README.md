@@ -62,3 +62,10 @@ The best XI players were selected based on:
 
 - Reporting any issues with the dashboard.
 ### Thank you for exploring this T20 World Cup 2022 analysis project! If you have any questions or feedback, feel free to reach out.
+
+## Output
+
+https://github.com/user-attachments/assets/0b3c97f7-c1f3-40b7-a574-b3c4e7bc4e97
+
+
+
